@@ -11,7 +11,7 @@ Check out my portfolio at [umerasif.me](https://umerasif.me) to see my latest pr
 - **Tools:** Git, Docker, Redis, RabbitMQ
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUmerAsif&show_icons=true&theme=radical)
 
 ### 🌱 I’m currently learning
 - Full Stack Development 
